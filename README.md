@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wayfinder (React + Vite)
 
 World-map travel planner. Pick a destination, log in or sign up, then see popular places, how to get there from your city, and an estimated cost.
@@ -59,3 +60,6 @@ Build for hosting with `npm run build` (output in `dist/`).
 - Use the **Dark mode / Light mode** button in the navbar to change the appearance.
 - Your selected theme is saved in the browser, so it stays selected when you reopen the app.
 
+=======
+# wayfinder-react
+>>>>>>> f5e20fc4ad0ed6237cb7e5e847a909c21fcb75a6
